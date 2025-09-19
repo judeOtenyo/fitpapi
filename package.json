@@ -1,0 +1,19 @@
+{
+  "name": "fitpapi",
+  "version": "1.0.0",
+  "description": "A fittness app for the everyday mwananchi",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@angular-devkit/core": "~20.2.0",
+    "@nx/angular": "^21.5.2"
+  },
+  "dependencies": {}
+}
